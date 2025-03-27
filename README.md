@@ -17,7 +17,7 @@ The **E-commerce Admin API** is a RESTful backend application built with Spring 
 - **Spring Boot 3.3.5**
 - **Spring Data JPA**
 - **Maven**
-- **H2 / PostgreSQL / MySQL (Configurable Database)**
+- **MySQL**
 
 ---
 
@@ -44,7 +44,7 @@ The **E-commerce Admin API** is a RESTful backend application built with Spring 
 ### **Prerequisites**
 - Java 17+
 - Maven
-- PostgreSQL / MySQL (if using a database)
+- MySQL
 
 ### **Clone the Repository**
 ```sh
