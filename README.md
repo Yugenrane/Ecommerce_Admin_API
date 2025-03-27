@@ -69,6 +69,3 @@ mvn spring-boot:run
 
 ---
 
-## 📄 License
-MIT © 2023
-
