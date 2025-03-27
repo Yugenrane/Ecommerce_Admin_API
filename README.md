@@ -68,4 +68,6 @@ mvn spring-boot:run
 - **Build Tool:** Maven  
 
 ---
+## 📄 License
+MIT © 2024
 
